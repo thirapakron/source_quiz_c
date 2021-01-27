@@ -35,7 +35,7 @@ void main(){
   x = (x%5);
 
   y=x/2;
-  printf("2 bath: %d",y);    
+  printf("2 bath: %d\n",y);    
   x = (x%2);
 
   y=x/1;
